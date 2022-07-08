@@ -9,7 +9,7 @@ Welcome to this website about severe weather. It includes small, bite-size thoug
 * May 28, 2022: Twistex memorial
 * May 24, 2022: Texas supercells
 * May 23, 2022: Morton, Texas tornadic supercell
-* May 21, 2022: tornado warned storm in Arkansas Ozarks
-* May 19, 2022: lightning and cloud structures at Minnesota supercell
-* May 17, 2022: lightning and severe winds at Nebraska/Kansas bow echo
-* May 15, 2022: classic supercell in eastern Oklahoma
+* May 21, 2022: Tornado warned storm in Arkansas Ozarks
+* May 19, 2022: Lightning and cloud structures at Minnesota supercell
+* May 17, 2022: Lightning and severe winds at Nebraska/Kansas bow echo
+* May 15, 2022: [Classic supercell in eastern Oklahoma](./articles/stormchase-reports/may-15-2022-classic-supercell-in-eastern-oklahoma.md).
